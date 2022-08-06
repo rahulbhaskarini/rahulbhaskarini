@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, analyzing data, O365
 - 🌱 I’m currently learning ML,NLP, SPFX, PowerrApps
 - 💞️ I’m looking to collaborate on hackathons
-- 📫 How to reach me ...rahul.bhaskarini@gmail.com
+- 📫 How to reach me ...rahul.bhaskarini1@gmail.com
 
 <!---
 rahulbhaskarini/rahulbhaskarini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
